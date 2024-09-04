@@ -1,0 +1,54 @@
+title: "ID 001: Abstract Title"
+labels: ["Abstract", "Q&A"]
+body:
+  - type: input
+    attributes:
+      label: Presenter Name
+      value: "Firstname Lastname"
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Presenter Email
+      value: "dummy@dummy.com"
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: This abstract is presented
+      options:
+        - in-person
+        - virtually
+    validations:
+      required: true
+
+  - type: dropdown
+    id: name_of_sesseion
+    attributes:
+      label: In which session is this abstract presented?
+      options:
+        - Poster & Power-Pitch
+        - "Oral: CEST well-prepared"
+        - "Oral: Novel Readouts"
+        - "Oral: CEST in Oncology"
+        - "Oral: Neuro-CEST"
+        - "Oral: Contrast Mechanisms"
+        - "Oral: Extra/Sweet CEST Agents"
+        - "Oral: CEST Standardization"
+        - "Oral: CEST in the Body"
+        - "Oral: Intelligent CEST MRI"
+        - "Oral: Vendor Session"
+        - "Educational Talk"
+        - "Keynote Lecture"
+
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Link to abstract
+      value: "[Click here for the pdf!](https://github.com/schuenke/discussion_tests/blob/main/resources/abstracts/001.pdf)"
+    validations:
+      required: true
