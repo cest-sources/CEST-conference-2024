@@ -16,15 +16,6 @@ body:
       required: true
 
   - type: dropdown
-    attributes:
-      label: This abstract is presented
-      options:
-        - in-person
-        - virtually
-    validations:
-      required: true
-
-  - type: dropdown
     id: name_of_sesseion
     attributes:
       label: In which session is this abstract presented?
@@ -46,9 +37,18 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    attributes:
+      label: This abstract is presented
+      options:
+        - in-person
+        - virtually
+    validations:
+      required: true
+
   - type: input
     attributes:
       label: Link to abstract
-      value: "[Click here for the pdf!](https://github.com/schuenke/discussion_tests/blob/main/resources/abstracts/001.pdf)"
+      value: "[Click here for the pdf!](https://github.com/cest-sources/CEST-conference-2024/blob/main/resources/abstracts/abstract_001.pdf)"
     validations:
       required: true
