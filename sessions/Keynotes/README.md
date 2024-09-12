@@ -11,7 +11,7 @@
 |18.09. 09:00 |  [#107: Neuro-CEST](https://github.com/cest-sources/CEST-conference-2024/discussions/107) | Robert Bartha|
 |18.09. 11:00 |  [#108: How can we determine that CrCEST is a slow-exchanging process in vivo?](https://github.com/cest-sources/CEST-conference-2024/discussions/108) | Jiadi Xu|
 |19.09. 09:00 |  [#109: Dynamic Glucose Enhanced (DGE) MRI in brain tumors](https://github.com/cest-sources/CEST-conference-2024/discussions/109) | Linda Knutsson|
-|19.09. 13:30 |  [#110: Cardio CEST](https://github.com/cest-sources/CEST-conference-2024/discussions/110) | Moriel Vandsburger|
+|19.09. 13:30 |  [#110: Cardio CEST-MRI - to the heart of the matter](https://github.com/cest-sources/CEST-conference-2024/discussions/110) | Moriel Vandsburger|
 |19.09. 15:00 |  [#111: CEST in the body imaging and oncology](https://github.com/cest-sources/CEST-conference-2024/discussions/111) | Elena Vinogradov|
 |19.09. 16:00 |  [#112: Amide Proton Transfer MRI in Neuro-oncology](https://github.com/cest-sources/CEST-conference-2024/discussions/112) | Shanshan Jiang|
 |20.09. 09:00 |  [#113: AI-Based Interventions Along the CEST MR-Fingerprinting Pipeline: The Quest for Speed, Specificity, and Histological Fidelity](https://github.com/cest-sources/CEST-conference-2024/discussions/113) | Or Perlmann|
