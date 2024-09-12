@@ -8,7 +8,7 @@
 |------|-------|--------|
 |17.09. 11:00 |  [#105: Tumor pH CEST](https://github.com/cest-sources/CEST-conference-2024/discussions/105) | Dario Longo|
 |17.09. 16:00 |  [#106: Clinical Applications of CEST MRI](https://github.com/cest-sources/CEST-conference-2024/discussions/106) | Daniel Paech|
-|18.09. 09:00 |  [#107: CEST in Neurology](https://github.com/cest-sources/CEST-conference-2024/discussions/107) | Robert Bartha|
+|18.09. 09:00 |  [#107: Neuro-CEST](https://github.com/cest-sources/CEST-conference-2024/discussions/107) | Robert Bartha|
 |18.09. 11:00 |  [#108: How can we determine that CrCEST is a slow-exchanging process in vivo?](https://github.com/cest-sources/CEST-conference-2024/discussions/108) | Jiadi Xu|
 |19.09. 09:00 |  [#109: Dynamic Glucose Enhanced (DGE) MRI in brain tumors](https://github.com/cest-sources/CEST-conference-2024/discussions/109) | Linda Knutsson|
 |19.09. 13:30 |  [#110: Cardio CEST](https://github.com/cest-sources/CEST-conference-2024/discussions/110) | Moriel Vandsburger|
