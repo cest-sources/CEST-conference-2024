@@ -13,7 +13,7 @@
 |19.09. 09:00 |  [#109: Dynamic Glucose Enhanced (DGE) MRI in brain tumors](https://github.com/cest-sources/CEST-conference-2024/discussions/109) | Linda Knutsson|
 |19.09. 13:30 |  [#110: Cardio CEST](https://github.com/cest-sources/CEST-conference-2024/discussions/110) | Moriel Vandsburger|
 |19.09. 15:00 |  [#111: CEST in the body imaging and oncology](https://github.com/cest-sources/CEST-conference-2024/discussions/111) | Elena Vinogradov|
-|19.09. 16:00 |  [#112: APT MRI in the Brain](https://github.com/cest-sources/CEST-conference-2024/discussions/112) | Shanshan Jiang|
+|19.09. 16:00 |  [#112: Amide Proton Transfer MRI in Neuro-oncology](https://github.com/cest-sources/CEST-conference-2024/discussions/112) | Shanshan Jiang|
 |20.09. 09:00 |  [#113: CEST MR Fingerprinting](https://github.com/cest-sources/CEST-conference-2024/discussions/113) | Or Perlmann|
 |20.09. 11:00 |  [#114: Next Generation CEST MRI](https://github.com/cest-sources/CEST-conference-2024/discussions/114)| Moritz Zaiss|
 ||||
