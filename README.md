@@ -9,17 +9,24 @@ The goal of the [CEST Conference 2024](https://www.cestworkshop.org/) is to prov
 
 ## Hybrid meeting format
 
-The meeting will take place in hybrid form.
-**Link to the online stream**
+### Online stream
+
 The link will be made available soon.
+
+### Online Discussions
+
+For each contribution, we created a post in the [Discussions section](https://github.com/cest-sources/CEST-conference-2024/discussions), where questions and comments can be posted by virtual and in-person attendees before, during and after the meeting. Please add information about your project and/or yourself in the corresponding discussion posts.
 
 ### Abstracts
 
 All abstracts all available in pdf-format the [abstract section](/resources/abstracts) in this repository.
 
-### Online Discussions
+---
 
-For each contribution, we created a post in the [Discussions section](https://github.com/cest-sources/CEST-conference-2024/discussions), where questions and comments can be posted by virtual and in-person attendees before, during and after the meeting. Please add information about your project and/or yourself in the corresponding discussion posts.
+## Venue (UPDATED)
+
+* Monday (16.09.): [Findelgasse 7-9, 90403 Nürnberg](https://maps.app.goo.gl/X1kq8b3W5nWpWj8W6)
+* Tue-Fri (17.-20.09): [Lange Gasse 20, 90403 Nürnberg](https://maps.app.goo.gl/fRrs8UjTPTU7BNreA)
 
 ---
 
@@ -39,7 +46,8 @@ The [scientific program in pdf-format](https://drive.google.com/file/d/1Uj6bHrG9
 |10:30      | 30     |**Coffee Break**                                      | -                 |
 |11:00      | 30     |[Keynote: Tumor pH CEST (*Dario Longo*)](https://github.com/cest-sources/CEST-conference-2024/discussions/105)               | yes               |
 |11:30      | 30     |[Power Pitch Session I](/sessions/S04_power_pitch_I/)                                | yes               |
-|12:00      | 90     |**Lunch Break**                                       | -                 |
+|12:00      | 30     |[Keynote: How can we determine that CrCEST is a slow-exchanging process in vivo? (*Jiadi Xu*)](https://github.com/cest-sources/CEST-conference-2024/discussions/108)         | yes               |
+|12:30      | 60     |**Lunch Break**                                       | -                 |
 |13:30      | 90     |[Oral Session: Novel Readouts](/sessions/S05_novel_readouts/)                        | yes               |
 |15:00      | 30     |[Power Pitch Session II](/sessions/S06_power_pitch_II/)                                | yes               |
 |15:30      | 30     |**Coffee Break**                                      | -                 |
@@ -50,11 +58,9 @@ The [scientific program in pdf-format](https://drive.google.com/file/d/1Uj6bHrG9
 |09:00      | 30     |[Keynote: CEST in Neurology (*Robert Bartha*)](https://github.com/cest-sources/CEST-conference-2024/discussions/107)           | yes               |
 |09:30      | 60     |[Oral Session: Neuro-CEST](/sessions/S09_neuro/)                              | yes               |
 |10:30      | 30     |**Coffee Break**                                      | -                 |
-|11:00      | 30     |[Keynote: How can we determine that CrCEST is a slow-exchanging process in vivo? (*Jiadi Xu*)](https://github.com/cest-sources/CEST-conference-2024/discussions/108)         | yes               |
-|11:30      | 30     |[Power Pitch Session III](/sessions/S10_power_pitch_III/)                               | yes               |
-|12:00      | 90     |**Lunch Break**                                       | -                 |
-|13:30      | 90     |[Oral Session: Contrast Mechanisms](/sessions/S11_contrast_mechanisms/)                     | yes               |
-|15:00      | 30     |**Break / Transfer to Poster Session**                | -                 |
+|11:00      | 30     |[Power Pitch Session III](/sessions/S10_power_pitch_III/)                               | yes               |
+|11:30      | 90     |[Oral Session: Contrast Mechanisms](/sessions/S11_contrast_mechanisms/)                     | yes               |
+|13:00      |150     |**Lunch Break / Transfer to Poster Session**                                     | -                 |
 |15:30      | 30     |[Poster Session I (Groups A+B)](/sessions/S12_poster/)                        | no                |
 |16:00      | 15     |**Coffee Break**                                      | -                 |
 |16:15      | 30     |[Poster Session II (Groups C+D)](/sessions/S12_poster/)                        | no                |
