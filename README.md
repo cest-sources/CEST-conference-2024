@@ -11,7 +11,7 @@ The goal of the [CEST Conference 2024](https://www.cestworkshop.org/) is to prov
 
 ### Online stream
 
-The link will be made available soon.
+[CEST Conference Zoom room](https://fau.zoom-x.de/j/66426189063?pwd=qMdrUC9LdbkZjoZ2YAzyiUcSbVIvLU.1)
 
 ### Online Discussions
 
