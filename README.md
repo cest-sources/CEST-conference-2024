@@ -9,9 +9,9 @@ The goal of the [CEST Conference 2024](https://www.cestworkshop.org/) is to prov
 
 ## Hybrid meeting format
 
-### Online stream
+### Video Recordings
 
-[CEST Conference Zoom room](https://fau.zoom-x.de/j/66426189063?pwd=qMdrUC9LdbkZjoZ2YAzyiUcSbVIvLU.1)
+We will upload and post the recordings of all sessions soon.
 
 ### Online Discussions
 
