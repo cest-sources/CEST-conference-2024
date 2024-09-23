@@ -11,7 +11,7 @@ The goal of the [CEST Conference 2024](https://www.cestworkshop.org/) is to prov
 
 ### Online stream
 
-The link will be made available soon.
+[CEST Conference Zoom room](https://fau.zoom-x.de/j/66426189063?pwd=qMdrUC9LdbkZjoZ2YAzyiUcSbVIvLU.1)
 
 ### Online Discussions
 
@@ -88,7 +88,7 @@ The [scientific program in pdf-format](https://drive.google.com/file/d/1Uj6bHrG9
 |19:00      |120     |Group Dinner                                          | no                |
 |**20.09.** |        |                                                      |                   |
 |09:00      | 30     |[Keynote: CEST MR Fingerprinting (*Or Perlmann*)](https://github.com/cest-sources/CEST-conference-2024/discussions/113)       | yes               |
-|09:30      | 60     |[Oral Session: Intelligent CEST MRI](/sessions/S18)                    | yes               |
+|09:30      | 60     |[Oral Session: Intelligent CEST MRI](/sessions/S18_intelligent/)                    | yes               |
 |10:30      | 15     |**Coffee Break**                                      | -                 |
 |11:00      | 30     |[Keynote: Next Generation CEST MRI (*Moritz Zaiss*)](https://github.com/cest-sources/CEST-conference-2024/discussions/114)     | yes               |
 |11:30      | 30     |Award Ceremony & Closing Remarks                      | yes               |
