@@ -6,12 +6,17 @@ The goal of the [CEST Conference 2024](https://www.cestworkshop.org/) is to prov
  [www.cestworkshop.org](https://www.cestworkshop.org/).
 
 ---
+ 
+## UPDATES
+THE VIDEO RECORDINGS ARE [NOW AVAILABLE](https://drive.google.com/drive/folders/1X_zaTQ8VWLp_2LMjf1zoH3Cutm6k1Wn7?usp=sharing).
+
+---
 
 ## Hybrid meeting format
 
 ### Video Recordings
 
-We will upload and post the recordings of all sessions soon.
+**The video recordings of all sessions are finally online. Please find them [here](https://drive.google.com/drive/folders/1X_zaTQ8VWLp_2LMjf1zoH3Cutm6k1Wn7?usp=sharing).**
 
 ### Online Discussions
 
