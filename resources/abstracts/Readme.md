@@ -103,3 +103,17 @@
 - 101_Prinz_D_2D-glucoCEST_eval_and_processing.pdf
 
 
+# How to cite: (example)
+M. Huemer, C. Stilianu, and R. Stollberger, “Fully transient 3D model based CEST,” in Proceedings of the CEST Conference 2024, Friedrich-Alexander University Erlangen-Nürnberg, 2024. [Online]. Available: https://github.com/cest-sources/CEST-conference-2024/blob/main/resources/abstracts/abstract_034.pdf
+````
+@inproceedings{Huemer2024CEST,
+  author    = {Markus Huemer and Clemens Stilianu and Rudolf Stollberger},
+  title     = {Fully Transient 3D Model Based CEST},
+  booktitle = {Proceedings of the CEST Conference 2024},
+  year      = {2024},
+  publisher = {Friedrich-Alexander University Erlangen-Nürnberg},
+  url       = {https://github.com/cest-sources/CEST-conference-2024/blob/main/resources/abstracts/abstract_034.pdf},
+  note      = {Institute for Biomedical Imaging, Graz University of Technology, Graz, Austria; BioTechMed Graz, Graz, Austria}
+}
+````
+
