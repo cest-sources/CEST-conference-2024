@@ -1,117 +1,122 @@
 ## Abstracts by First author name and ID
+## Files in this folder
 
-- 001_Aafreen_S_Engineered_Dextran_for_BBB_Assessment.pdf
-- 002_Armbruster_R_Integrated_CEST_with_Spectroscopy.pdf
-- 003_Asturias_A_CEST_in_MCI_patients_with_AD biomarkers_vs_controls.pdf
-- 004_Balling_J_RACETE_using_Phase_Offsets.pdf
-- 005_Balling_J_Turbo-WEX_Imaging.pdf
-- 006_Baum_T_CEST_2024_CEST-DREAM.pdf
-- 007_Benyard_BB__ageingbrainNOEMTR.pdf
-- 008_Botto_E_Iopamidol_brain_tumor.pdf
-- 009_Boyd_PS_pH_and_Temperature_Mapping.pdf
-- 010_Bulanov_P_Application_of_B1_shimming_for_high_field_CEST_MRI.pdf
-- 011_Cai_P_CDMAF-CEST_Conditional_Diffusion_model_for_multi-acceleration-factor_CEST_MRI_Reconstruction.pdf
-- 012_Capiglioni_M_CEST_in_aging.pdf
-- 013_Capiglioni_M_oral_glucose_intake.pdf
-- 014_Castrillon_G_MolecularFingerprintCEST.pdf
-- 015_Chai_K_CEST_Peritumoral_Edema_Analysis.pdf
-- 016_Chen_Z_Effect_of_AQP4_on_Water_Exchange_Detected_by_MISL.pdf
-- 017_Chowdhury_MSI_Nanoparticle CEST MRI for better visualization.pdf
-- 018_Chung_J_Improving_Standardization_and_Accuracy_of_In_Vivo_Omega_Plot.pdf
-- 019_Cronin_AE_pH_spine_CEST.pdf
-- 020_Fabian_M_comprehensive 7T CEST imaging displays promising features for tumor (sub)grading_v3.pdf
-- 021_Fabian_M_comprehensive 7T CEST imaging in relapsing remitting multiple sclerosis_v2.pdf
-- 022_Fabian_M_optimal control cCEST 7T.pdf
-- 023_Ferrauto_G_CEST water cycling across membrane.pdf
-- 024_Finkelstein_A_NBMF.pdf
-- 025_Fothergill_A_APT_metrics.pdf
-- 026_Gallinnis_P_renal_CEST.pdf
-- 027_Gerbeth_H_Gd_Detection_via_HyperCEST.pdf
-- 028_Ghaemi B Mannose overexpression.pdf
-- 029_Gutjahr_State_of_RACETE_MRI.pdf
-- 030_Hammacher_J_Spiral_CEST.pdf
-- 031_Henriet_V_CEST_based_pH_in_muscle_in_(patho)physiological_range_at_3T.pdf
-- 032_Henriet_V_reproducibility_CEST_based_pH_in_resting_healthy_muscle_at_3T.pdf
-- 033_Hervouin_AH_PET_MR_Alzheimers.pdf
-- 034_Huemer_M_Fully_Transient_CEST.pdf
-- 035_Jiang_T_Multicenter_validation_for_gliomas_classification.pdf
-- 036_Ju_LJ_muscle_3T_CEST_mapping.pdf
-- 037_Karimian-Jazi_KJ_Assessing metabolic heterogeneity.pdf
-- 038_Kemper_L_Multi-Site_Multi-vendor_reproducibility_APTw-CEST.pdf
-- 039_Kim_H_QUASS_AREX_on_brain_tumor_patient_3T.pdf
-- 040_Knutsson_M_Glioblastoma_metastases_APTw_perfusion.pdf
-- 041_Korenchan_D_CEST_MRF_for_ParaVision_360.pdf
-- 042_Korenchan_D_Large_Shift_CEST_for_reporter_proteins.pdf
-- 043_Korenchan_D_Quantifying_Glutamate_with_CEST_CESL_MRF.pdf
-- 044_Kraehling_T_Glucose_assessment_on_a_clinical_3_T_MRI_scanner.pdf
-- 045_Krause_I_Pseudoprogression_APT_3T.pdf
-- 046_Kroh_FK_ML_interpretation_APTw.pdf
-- 047_Lan_Y_7T_CEST_human_glioma_Lorentzian_fitting.pdf
-- 048_Liebeskind_A_The_Pulseq_CEST_Library.pdf
-- 049_Lippe_C_Model-based_GlucoCEST.pdf
-- 050_Maguin_C_VesicularGlutamate.pdf
-- 051_Mahmud_SZ_Simultaneous_B0_SW_and_APTw_Imaging_with_Rosette_Trajectories.pdf
-- 052_Mayer_S_CEST-for-plants.pdf
-- 053_McMahonOptPulseCEST2024_abstract-AAG.pdf
-- 054_Mennecke_AB_cCEST_for_distinguishing_MS_from_unspecific_WML.pdf
-- 055_Menshchikov_P_fat_corrected_rNOE.pdf
-- 056_MohammedAli_S_ML_based_multipool_voigt_fitting.pdf
-- 057_Möhle_TA_Different_evaluation_approaches_for_CEST_in_stroke_7T.pdf
-- 058_Nagar_D_Multi_Contrast_AI.pdf
-- 059_Pan_PSQ_Gamma_Knife_Treatment_Response.pdf
-- 060_Pandey_S_Carbon_Nanoparticle_as_CEST_agent.pdf
-- 061_Papageorgakis_C_B1_Decorrelation_In_APTw_at_3T.pdf
-- 062_Pirotta_E_Prostate_Tumor_pH.pdf
-- 063_Plaehn_NMJP_Turbo_WEX.pdf
-- 064_Power_I_Deep_rNOE_MRF.pdf
-- 065_Prasuhn_J_glycoNOE_in_PD.pdf
-- 066_Rajput_R_Hybrid_solution.pdf
-- 067_Rajput_R_Mz_recon.pdf
-- 068_Rivlin_M_Glucosamine_CEST_MRI_in_human_breast.pdf
-- 069_SONI_ND_GluCEST DETECTS SEX SPECIFIC GLUTAMATE CHANGES IN AD.pdf
-- 070_Sadanand_S_Multiconcentration_NSS_Rex_fitting.pdf
-- 071_Schuenke_P_2DG_CESL_MRI_in_Rat_Stroke_Models.pdf
-- 072_Schuenke_P_Bloch-McConnell_Simulation_Study.pdf
-- 073_Schuere_J_BoleroShim.pdf
-- 074_Schuere_J_DeepCESTpH.pdf
-- 075_Seidemo_A_DGE_infusion_duration.pdf
-- 076_Seidemo_A_Temperature_influence_DGE.pdf
-- 077_Shen_S_Deep_learning_based_CEST_acceleration.pdf
-- 078_Singh_M_Influence_of_RF_saturation_parameters_and_CEST_quantification_metrics_on_tumor_contrast.pdf
-- 079_Stilianu_C_Optimal_Control_Pulse_Design.pdf
-- 080_Su_H_DMSO_liposome.pdf
-- 081_Tyrach_F_An_open_multi-B0-multi-B1-CEST_dataset_of_the_human_brain.pdf
-- 082_VASSALLO_G_ENDOGENOUS_31P_CEST.pdf
-- 083_Voelzke_Y_PUSHUP-gluCEST.pdf
-- 084_Vollmann_CEST_2024_SNR_PSF.pdf
-- 085_WEI_L_APTw_CEST_phantom_1.5T_3T.pdf
-- 086_Wang_J_CEST-KAN .pdf
-- 087_Wang_K_Whole-Cerebrum_GuanCEST_at_3T_by_3D_stack-of-spirals_ GRE.pdf
-- 088_Wang_PW_Tumor_Segmentation_Response_Assessment_APTw.pdf
-- 089_Wang_X_3D_CEST_kidney.pdf
-- 090_Wang_Y_PCr+Cr_quantification_in_muscle.pdf
-- 091_Wang_Z_Molecular imaging of brain MS using CEST MRI at clinical 3T.pdf
-- 092_Weigand-Whittier_J_Ungated_cardiac_CEST.pdf
-- 093_Weinmüller_S_Mitigating_Blur_Artifacts_in_3D_Snapshot_CEST_using_Tailored_Flip_Angle_Trains.pdf
-- 094_Winkler_L_clinical_APTw_CEST_withFS.pdf
-- 095_Wu_JW_Protein-based biomarkers for AD.pdf
-- 096_Xia_D_CEST_MRI_Golden_Angle.pdf
-- 097_Zeng_Q_Saturation_recovery_during_multi-band_CEST.pdf
-- 098_Zhang_H_CESTsimu A User Friendly GUI for spectral and spatial CEST simulation.pdf
-- 099_v. Knebel Doeberitz_NvKD_- relax. comp. CEST in glioma at 3T_final.pdf
-- 100_Casagranda_S_Fluid_Suppressed_APTw_Progression_Radionecrosis.pdf
-- 101_Prinz_D_2D-glucoCEST_eval_and_processing.pdf
+- [001_Aafreen_S_Engineered_Dextran_for_BBB_Assessment.pdf](abstract_001.pdf)
+- [002_Armbruster_R_Integrated_CEST_with_Spectroscopy.pdf](abstract_002.pdf)
+- [003_Asturias_A_CEST_in_MCI_patients_with_AD biomarkers_vs_controls.pdf](abstract_003.pdf)
+- [004_Balling_J_RACETE_using_Phase_Offsets.pdf](abstract_004.pdf)
+- [005_Balling_J_Turbo-WEX_Imaging.pdf](abstract_005.pdf)
+- [006_Baum_T_CEST_2024_CEST-DREAM.pdf](abstract_006.pdf)
+- [007_Benyard_BB__ageingbrainNOEMTR.pdf](abstract_007.pdf)
+- [008_Botto_E_Iopamidol_brain_tumor.pdf](abstract_008.pdf)
+- [009_Boyd_PS_pH_and_Temperature_Mapping.pdf](abstract_009.pdf)
+- [010_Bulanov_P_Application_of_B1_shimming_for_high_field_CEST_MRI.pdf](abstract_010.pdf)
+- [011_Cai_P_CDMAF-CEST_Conditional_Diffusion_model_for_multi-acceleration-factor_CEST_MRI_Reconstruction.pdf](abstract_011.pdf)
+- [012_Capiglioni_M_CEST_in_aging.pdf](abstract_012.pdf)
+- [013_Capiglioni_M_oral_glucose_intake.pdf](abstract_013.pdf)
+- [014_Castrillon_G_MolecularFingerprintCEST.pdf](abstract_014.pdf)
+- [015_Chai_K_CEST_Peritumoral_Edema_Analysis.pdf](abstract_015.pdf)
+- [016_Chen_Z_Effect_of_AQP4_on_Water_Exchange_Detected_by_MISL.pdf](abstract_016.pdf)
+- [017_Chowdhury_MSI_Nanoparticle CEST MRI for better visualization.pdf](abstract_017.pdf)
+- [018_Chung_J_Improving_Standardization_and_Accuracy_of_In_Vivo_Omega_Plot.pdf](abstract_018.pdf)
+- [019_Cronin_AE_pH_spine_CEST.pdf](abstract_019.pdf)
+- [020_Fabian_M_comprehensive 7T CEST imaging displays promising features for tumor (sub)grading_v3.pdf](abstract_020.pdf)
+- [021_Fabian_M_comprehensive 7T CEST imaging in relapsing remitting multiple sclerosis_v2.pdf](abstract_021.pdf)
+- [022_Fabian_M_optimal control cCEST 7T.pdf](abstract_022.pdf)
+- [023_Ferrauto_G_CEST water cycling across membrane.pdf](abstract_023.pdf)
+- [024_Finkelstein_A_NBMF.pdf](abstract_024.pdf)
+- [025_Fothergill_A_APT_metrics.pdf](abstract_025.pdf)
+- [026_Gallinnis_P_renal_CEST.pdf](abstract_026.pdf)
+- [027_Gerbeth_H_Gd_Detection_via_HyperCEST.pdf](abstract_027.pdf)
+- [028_Ghaemi B Mannose overexpression.pdf](abstract_028.pdf)
+- [029_Gutjahr_State_of_RACETE_MRI.pdf](abstract_029.pdf)
+- [030_Hammacher_J_Spiral_CEST.pdf](abstract_030.pdf)
+- [031_Henriet_V_CEST_based_pH_in_muscle_in_(patho)physiological_range_at_3T.pdf](abstract_031.pdf)
+- [032_Henriet_V_reproducibility_CEST_based_pH_in_resting_healthy_muscle_at_3T.pdf](abstract_032.pdf)
+- [033_Hervouin_AH_PET_MR_Alzheimers.pdf](abstract_033.pdf)
+- [034_Huemer_M_Fully_Transient_CEST.pdf](abstract_034.pdf)
+- [035_Jiang_T_Multicenter_validation_for_gliomas_classification.pdf](abstract_035.pdf)
+- [036_Ju_LJ_muscle_3T_CEST_mapping.pdf](abstract_036.pdf)
+- [037_Karimian-Jazi_KJ_Assessing metabolic heterogeneity.pdf](abstract_037.pdf)
+- [038_Kemper_L_Multi-Site_Multi-vendor_reproducibility_APTw-CEST.pdf](abstract_038.pdf)
+- [039_Kim_H_QUASS_AREX_on_brain_tumor_patient_3T.pdf](abstract_039.pdf)
+- [040_Knutsson_M_Glioblastoma_metastases_APTw_perfusion.pdf](abstract_040.pdf)
+- [041_Korenchan_D_CEST_MRF_for_ParaVision_360.pdf](abstract_041.pdf)
+- [042_Korenchan_D_Large_Shift_CEST_for_reporter_proteins.pdf](abstract_042.pdf)
+- [043_Korenchan_D_Quantifying_Glutamate_with_CEST_CESL_MRF.pdf](abstract_043.pdf)
+- [044_Kraehling_T_Glucose_assessment_on_a_clinical_3_T_MRI_scanner.pdf](abstract_044.pdf)
+- [045_Krause_I_Pseudoprogression_APT_3T.pdf](abstract_045.pdf)
+- [046_Kroh_FK_ML_interpretation_APTw.pdf](abstract_046.pdf)
+- [047_Lan_Y_7T_CEST_human_glioma_Lorentzian_fitting.pdf](abstract_047.pdf)
+- [048_Liebeskind_A_The_Pulseq_CEST_Library.pdf](abstract_048.pdf)
+- [049_Lippe_C_Model-based_GlucoCEST.pdf](abstract_049.pdf)
+- [050_Maguin_C_VesicularGlutamate.pdf](abstract_050.pdf)
+- [051_Mahmud_SZ_Simultaneous_B0_SW_and_APTw_Imaging_with_Rosette_Trajectories.pdf](abstract_051.pdf)
+- [052_Mayer_S_CEST-for-plants.pdf](abstract_052.pdf)
+- [053_McMahonOptPulseCEST2024_abstract-AAG.pdf](abstract_053.pdf)
+- [054_Mennecke_AB_cCEST_for_distinguishing_MS_from_unspecific_WML.pdf](abstract_054.pdf)
+- [055_Menshchikov_P_fat_corrected_rNOE.pdf](abstract_055.pdf)
+- [056_MohammedAli_S_ML_based_multipool_voigt_fitting.pdf](abstract_056.pdf)
+- [057_Möhle_TA_Different_evaluation_approaches_for_CEST_in_stroke_7T.pdf](abstract_057.pdf)
+- [058_Nagar_D_Multi_Contrast_AI.pdf](abstract_058.pdf)
+- [059_Pan_PSQ_Gamma_Knife_Treatment_Response.pdf](abstract_059.pdf)
+- [060_Pandey_S_Carbon_Nanoparticle_as_CEST_agent.pdf](abstract_060.pdf)
+- [061_Papageorgakis_C_B1_Decorrelation_In_APTw_at_3T.pdf](abstract_061.pdf)
+- [062_Pirotta_E_Prostate_Tumor_pH.pdf](abstract_062.pdf)
+- [063_Plaehn_NMJP_Turbo_WEX.pdf](abstract_063.pdf)
+- [064_Power_I_Deep_rNOE_MRF.pdf](abstract_064.pdf)
+- [065_Prasuhn_J_glycoNOE_in_PD.pdf](abstract_065.pdf)
+- [066_Rajput_R_Hybrid_solution.pdf](abstract_066.pdf)
+- [067_Rajput_R_Mz_recon.pdf](abstract_067.pdf)
+- [068_Rivlin_M_Glucosamine_CEST_MRI_in_human_breast.pdf](abstract_068.pdf)
+- [069_SONI_ND_GluCEST DETECTS SEX SPECIFIC GLUTAMATE CHANGES IN AD.pdf](abstract_069.pdf)
+- [070_Sadanand_S_Multiconcentration_NSS_Rex_fitting.pdf](abstract_070.pdf)
+- [071_Schuenke_P_2DG_CESL_MRI_in_Rat_Stroke_Models.pdf](abstract_071.pdf)
+- [072_Schuenke_P_Bloch-McConnell_Simulation_Study.pdf](abstract_072.pdf)
+- [073_Schuere_J_BoleroShim.pdf](abstract_073.pdf)
+- [074_Schuere_J_DeepCESTpH.pdf](abstract_074.pdf)
+- [075_Seidemo_A_DGE_infusion_duration.pdf](abstract_075.pdf)
+- [076_Seidemo_A_Temperature_influence_DGE.pdf](abstract_076.pdf)
+- [077_Shen_S_Deep_learning_based_CEST_acceleration.pdf](abstract_077.pdf)
+- [078_Singh_M_Influence_of_RF_saturation_parameters_and_CEST_quantification_metrics_on_tumor_contrast.pdf](abstract_078.pdf)
+- [079_Stilianu_C_Optimal_Control_Pulse_Design.pdf](abstract_079.pdf)
+- [080_Su_H_DMSO_liposome.pdf](abstract_080.pdf)
+- [081_Tyrach_F_An_open_multi-B0-multi-B1-CEST_dataset_of_the_human_brain.pdf](abstract_081.pdf)
+- [082_VASSALLO_G_ENDOGENOUS_31P_CEST.pdf](abstract_082.pdf)
+- [083_Voelzke_Y_PUSHUP-gluCEST.pdf](abstract_083.pdf)
+- [084_Vollmann_CEST_2024_SNR_PSF.pdf](abstract_084.pdf)
+- [085_WEI_L_APTw_CEST_phantom_1.5T_3T.pdf](abstract_085.pdf)
+- [086_Wang_J_CEST-KAN .pdf](abstract_086.pdf)
+- [087_Wang_K_Whole-Cerebrum_GuanCEST_at_3T_by_3D_stack-of-spirals_ GRE.pdf](abstract_087.pdf)
+- [088_Wang_PW_Tumor_Segmentation_Response_Assessment_APTw.pdf](abstract_088.pdf)
+- [089_Wang_X_3D_CEST_kidney.pdf](abstract_089.pdf)
+- [090_Wang_Y_PCr+Cr_quantification_in_muscle.pdf](abstract_090.pdf)
+- [091_Wang_Z_Molecular imaging of brain MS using CEST MRI at clinical 3T.pdf](abstract_091.pdf)
+- [092_Weigand-Whittier_J_Ungated_cardiac_CEST.pdf](abstract_092.pdf)
+- [093_Weinmüller_S_Mitigating_Blur_Artifacts_in_3D_Snapshot_CEST_using_Tailored_Flip_Angle_Trains.pdf](abstract_093.pdf)
+- [094_Winkler_L_clinical_APTw_CEST_withFS.pdf](abstract_094.pdf)
+- [095_Wu_JW_Protein-based biomarkers for AD.pdf](abstract_095.pdf)
+- [096_Xia_D_CEST_MRI_Golden_Angle.pdf](abstract_096.pdf)
+- [097_Zeng_Q_Saturation_recovery_during_multi-band_CEST.pdf](abstract_097.pdf)
+- [098_Zhang_H_CESTsimu A User Friendly GUI for spectral and spatial CEST simulation.pdf](abstract_098.pdf)
+- [099_v. Knebel Doeberitz_NvKD_- relax. comp. CEST in glioma at 3T_final.pdf](abstract_099.pdf)
+- [100_Casagranda_S_Fluid_Suppressed_APTw_Progression_Radionecrosis.pdf](abstract_100.pdf)
+- [101_Prinz_D_2D-glucoCEST_eval_and_processing.pdf](abstract_101.pdf)
 
 
 # How to cite: (example)
-M. Huemer, C. Stilianu, and R. Stollberger, “Fully transient 3D model based CEST,” in Proceedings of the CEST Conference 2024, Friedrich-Alexander University Erlangen-Nürnberg, 2024. [Online]. Available: https://github.com/cest-sources/CEST-conference-2024/blob/main/resources/abstracts/abstract_034.pdf
+M. Huemer, C. Stilianu, and R. Stollberger, “Fully transient 3D model based CEST,” in Proc. CEST Conf. 2024, Nürnberg, Germany, Sept. 2024, Abstract 034. [Online]. Available: https://github.com/cest-sources/CEST-conference-2024/blob/main/resources/abstracts/abstract_034.pdf
+
 ````
 @inproceedings{Huemer2024CEST,
   author    = {Markus Huemer and Clemens Stilianu and Rudolf Stollberger},
   title     = {Fully Transient 3D Model Based CEST},
   booktitle = {Proceedings of the CEST Conference 2024},
   year      = {2024},
+  month     = sep,
+  address   = {Nürnberg, Germany},
   publisher = {Friedrich-Alexander University Erlangen-Nürnberg},
+  pages     = {034},
   url       = {https://github.com/cest-sources/CEST-conference-2024/blob/main/resources/abstracts/abstract_034.pdf},
   note      = {Institute for Biomedical Imaging, Graz University of Technology, Graz, Austria; BioTechMed Graz, Graz, Austria}
 }
